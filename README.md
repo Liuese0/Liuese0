@@ -1,11 +1,16 @@
-## Hi there 👋
+## Someday I'll make V2FndXJp a reality.
+That's why I code.
+
+<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/e31c13cf-1e86-4fe5-b21e-f81c760b66ba" />
+
 
 <!--
 **Liuese0/Liuese0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...!
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
