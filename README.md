@@ -3,6 +3,8 @@ That's why I code.
 
 <img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/e31c13cf-1e86-4fe5-b21e-f81c760b66ba" />
 
+![47da574c3c54047f34765752d335bd55](https://github.com/user-attachments/assets/24b3450c-3014-4390-9e72-619050db9404)
+![1d3523ddd48cbd7cb9993d9ce5bcc223](https://github.com/user-attachments/assets/ef2b9bf3-7cc3-4102-969e-2fc95cc2fa94)
 
 <!--
 **Liuese0/Liuese0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
