@@ -1,4 +1,4 @@
-## Someday I'll make V2FndXJp a reality.
+## Someday I'll make Yachiyo a reality.
 That's why I code.
 
 <img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/e31c13cf-1e86-4fe5-b21e-f81c760b66ba" />
